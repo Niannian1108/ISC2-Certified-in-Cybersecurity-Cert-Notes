@@ -11,3 +11,5 @@ Security Operations
 ```
 [Community Chapters Homepage](https://isc2chapters.isc2.org/?_gl=1*j36whe*_gcl_au*NjIyNTc0MzExLjE3ODA0ODQ3OTU.*_ga*MTkxMDg1OTczMi4xNzQ3OTI1Njgy*_ga_7V1PGHSZT0*czE3ODExMDIwNTAkbzc4JGcxJHQxNzgxMTAzNTYyJGo1MSRsMCRoMTIzODY4MTg1OA..)
 [Malaysia Chapters Community](https://isc2chapters.isc2.org/topics/45603/page/isc2myhome)
+
+Attempt 1 on Pre-Assessment: 91% Competency
